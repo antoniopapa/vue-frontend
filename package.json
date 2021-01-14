@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/c3": "^0.7.5",
+    "axios": "^0.21.1",
+    "c3": "^0.7.20",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
